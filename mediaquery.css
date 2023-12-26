@@ -336,9 +336,11 @@ width: 100%;
 .last{
   width: 90%;
   margin: 20px auto;
-  display:grid;
-  grid-template-columns: 1fr;
-  place-items: center;
+   display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
 }
 .last img{
   margin: 40px 0;
@@ -704,9 +706,11 @@ i{
   width: 80%;
   margin: 50px auto;
   padding: 20px 30px;
-  display: grid;
-  grid-template-columns: 1fr;
-  place-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
 }
 .contact-cont h2{
   text-decoration:underline rgb(4, 77, 248);
@@ -715,9 +719,11 @@ i{
 }
 .contact-cont{
   margin: 50px 20px;
-  display: grid;
-  grid-template-columns: 1fr;
-  place-items: center;
+  font-size: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .contact-cont p{
   color: rgba(0, 0, 255, 0.729);
