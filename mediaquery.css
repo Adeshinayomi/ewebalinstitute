@@ -99,7 +99,7 @@ nav a:hover{
   margin: 250px 0;
   height:47vh;
   width: 100%;
-  background-image:linear-gradient(rgba(0, 0, 0, 0.9),rgba(0, 0, 0, 0.9) ), url(/images/pexels-césar-valeu-1628095.jpg);
+  background-image:linear-gradient(rgba(0, 0, 0, 0.9),rgba(0, 0, 0, 0.9) ), url(images/pexels-césar-valeu-1628095.jpg);
   background-size:cover;
   background-repeat: no-repeat;
 }
@@ -405,7 +405,7 @@ i{
 
         /*HERO-SECTION*/
 .service-herosection{
-  background:linear-gradient(rgba(0, 0, 0,0.9 ),rgba(0, 0, 0,0.9) ),url(/images/pexels-andres-ayrton-6578395.jpg);
+  background:linear-gradient(rgba(0, 0, 0,0.9 ),rgba(0, 0, 0,0.9) ),url(images/pexels-andres-ayrton-6578395.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   margin: 250px 0;
@@ -549,7 +549,7 @@ i{
 /*ABOUT US*/
          /*HERO-SECTION*/  
 .about-herosection{
-  background: linear-gradient(rgba(0, 0, 0, 0.9),rgba(0, 0, 0, 0.9) ),url(/images/pexels-ricky-esquivel-1666667.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.9),rgba(0, 0, 0, 0.9) ),url(images/pexels-ricky-esquivel-1666667.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
@@ -683,7 +683,7 @@ i{
 
                 /*HERO-SECTION*/
 .contact-herosection{
-  background: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8) ),url(/images/pexels-ricky-esquivel-1666667.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8) ),url(images/pexels-ricky-esquivel-1666667.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
@@ -810,7 +810,7 @@ iframe{
   margin-top: 150px;
   height:700px;
   width: 100%;
-  /*background-image:linear-gradient(rgba(0, 0, 0, 0.9),rgba(0, 0, 0, 0.9) ), url(/images/pexels-césar-valeu-1628095.jpg);*/
+  /*background-image:linear-gradient(rgba(0, 0, 0, 0.9),rgba(0, 0, 0, 0.9) ), url(images/pexels-césar-valeu-1628095.jpg);*/
   background-size:cover;
   background-repeat: no-repeat;
 }
@@ -846,7 +846,7 @@ iframe{
   margin-top: 125px;
   height:700px;
   width: 100%;
-  /*background-image:linear-gradient(rgba(0, 0, 0, 0.9),rgba(0, 0, 0, 0.9) ), url(/images/pexels-césar-valeu-1628095.jpg);*/
+  /*background-image:linear-gradient(rgba(0, 0, 0, 0.9),rgba(0, 0, 0, 0.9) ), url(images/pexels-césar-valeu-1628095.jpg);*/
   background-size:cover;
   background-repeat: no-repeat;
 }
